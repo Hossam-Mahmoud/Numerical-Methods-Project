@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/88/src/view
+END
+DrawPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/87/src/view/DrawPanel.java
+END
+SecantPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/72/src/view/SecantPanel.java
+END
+NewtonRaphsonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/src/view/NewtonRaphsonPanel.java
+END
+InputPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/88/src/view/InputPanel.java
+END
+FalsePositionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/72/src/view/FalsePositionPanel.java
+END
+FixedPointPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/72/src/view/FixedPointPanel.java
+END
+BackGroundPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/46/src/view/BackGroundPanel.java
+END
+BisectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/src/view/BisectionPanel.java
+END
+TablePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/22/src/view/TablePanel.java
+END
+NewtonRaphsonAcceleratedPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/src/view/NewtonRaphsonAcceleratedPanel.java
+END

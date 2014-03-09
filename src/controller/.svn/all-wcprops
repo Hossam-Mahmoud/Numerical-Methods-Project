@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/95/src/controller
+END
+BisectionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/68/src/controller/BisectionController.java
+END
+FalsePositionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/82/src/controller/FalsePositionController.java
+END
+FixedPointController.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/68/src/controller/FixedPointController.java
+END
+NewtonRaphsonAccController.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/95/src/controller/NewtonRaphsonAccController.java
+END
+NewtonRaphsonController.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/95/src/controller/NewtonRaphsonController.java
+END
+SecantController.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/95/src/controller/SecantController.java
+END
